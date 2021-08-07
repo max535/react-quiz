@@ -1,6 +1,8 @@
-Для запуска проекта напишите следующие команды
+# Quiz APP
 
-•	npm install
+### Для запуска проекта напишите следующие команды 
 
-•	npm run start
++ npm install
++ npm run start
+
 
