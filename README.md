@@ -28,4 +28,8 @@ Firebase
 
 ### Ссылка на сайт: https://react-quiz-43b15.web.app/
 
+Для авторизации:
++ логин: m@gmail.com
++ пароль: 123456
+
 
