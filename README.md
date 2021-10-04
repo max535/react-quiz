@@ -22,12 +22,3 @@ HTML, CSS, React, Redux, Firebase
 
 + npm install
 + npm run start
-
-
-### Ссылка на сайт: https://react-quiz-43b15.web.app/
-
-Для авторизации:
-+ логин: m@gmail.com
-+ пароль: 123456
-
-
